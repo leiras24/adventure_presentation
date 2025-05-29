@@ -14,6 +14,8 @@ Being able to communicate the same data differently — depending on whether you
 
 ## Files
 This project contains: 
-- an Excel, with cleaned and prepared sales data used in both presentations
-- two PowerPoint presentation, one tailored for the Sales Team and the other to the Executives
-- two Tableau Dashboards, interactive versions of the presentations, allowing each audience to explore the data further at their own pace
+- An Excel, with cleaned and prepared sales data used in both presentations
+- Two PowerPoint presentation, one tailored for the Sales Team and the other to the Executives
+- Two Tableau Dashboards, interactive versions of the presentations, allowing each audience to explore the data further at their own pace:
+- Executive presentation: https://public.tableau.com/app/profile/jo.o.leiras/viz/FutureofSalesExecutives/FutureofSales
+- Sales presentation: https://public.tableau.com/app/profile/jo.o.leiras/viz/FutureofSalesSales/FutureofSalesSales
