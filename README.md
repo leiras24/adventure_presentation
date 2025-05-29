@@ -1,1 +1,19 @@
-# adventure_presentation
+# Adventure Presentations
+This project contains two separate presentations based on sales data from the fictional company Adventure Works:
+- One designed for the Sales Team — detailed, insight-rich, and focused on tactical improvements
+
+- One designed for Executives — concise, action-oriented, and backed by key strategic data
+
+The purpose of this project is to demonstrate how data analysts must adapt their messaging to different audiences with different objectives and responsibilities. Creating tailored narratives ensures that insights are not only clear but also actionable for each group.  
+Being able to communicate the same data differently — depending on whether you're talking to operational teams or senior leadership — is critical in any organization. This project showcases how to:
+-Focus on operational details for teams responsible for execution
+
+-Highlight strategic decisions for stakeholders responsible for business direction
+
+-Present insights clearly and effectively to maximize impact
+
+## Files
+This project contains: 
+- an Excel, with cleaned and prepared sales data used in both presentations
+- two PowerPoint presentation, one tailored for the Sales Team and the other to the Executives
+- two Tableau Dashboards, interactive versions of the presentations, allowing each audience to explore the data further at their own pace
